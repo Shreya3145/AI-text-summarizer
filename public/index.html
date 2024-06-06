@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>AI Text Summarizer</title>
+        <link rel="stylesheet" href="stylesheet.css" />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Sofia"
+        />
+    </head>
+    <body>
+        <h1>AI Text Summarizer</h1>
+        <h2>Summarize your texts seamlessly!</h2>
+        <div class="container">
+            <div class="text-box">
+                <textarea
+                    id="text_to_summarize"
+                    name="text_to_summarize"
+                    placeholder="Type or Paste some text to summarize"
+                    maxlength="180000"
+                ></textarea
+                ><br />
+                <button id="submit-button" class="submit-button">
+                    <span class="submit-button-text">Summarize✨</span>
+                </button>
+            </div>
+            <div class="text-box">
+                <textarea
+                    id="summary"
+                    name="summarized_text"
+                    placeholder="Summarized text will appear here!"
+                    readonly
+                ></textarea>
+            </div>
+        </div>
+        <script src="script.js"></script>
+        <script src="index.js"></script>
+        <script src="summarize.js"></script>
+    </body>
+</html>
