@@ -32,3 +32,5 @@ To start the application on Replit:
 - Open the index.html file in the Replit editor.
 - Click the "Run" button at the top of the Replit interface.
 - The application will start, and you can view the summarizer in the Replit webview or at the generated Replit URL.
+
+📍Find this project on Replit: [AI Text Summarizer](https://replit.com/@Shreya3145/AI-text-summarizer).
