@@ -11,11 +11,6 @@ This repository contains a project for summarizing texts using AI via the Postma
 - Web-Based Interface: Built with HTML, CSS, and JavaScript for a user-friendly interface.
 - Replit Deployment: Easily run and manage the application on the Replit platform.
 - Secure Access: Employs Bearer Tokens for secure API access.
-- Getting Started
-- Follow these steps to set up and run the project locally or on Replit.
-
-## Prerequisites
-Ensure you have a Replit account. You can create one at replit.com.
 
 ## Installation and Setup
 Clone the repository:
