@@ -1,5 +1,36 @@
-# AI-text-summarizer
-- This repository is a project to summarize texts with AI using Postman API
-- It has been created on the Replit platform using HTML/CSS/JavaScript, Node.js and Express.js
-- Utilizing the Hugging Face API and Bearer Tokens, this summarizer can be executed
-- Used Postman to generate code and integrate APIs into an application
+# AI Text Summarizer
+This repository contains a project for summarizing texts using AI via the Postman API. The project is built on the Replit platform using HTML, CSS, and JavaScript, and leverages the Hugging Face API for natural language processing tasks.
+
+<a href="https://replit.com/" target="blank">
+      <img src="https://replit.com/public/images/logo.svg" alt="Replit" width="50" height="50">
+</a>
+
+## Features
+- AI-Powered Summarization: Uses Hugging Face's state-of-the-art models to generate text summaries.
+- Postman Integration: Facilitates API testing and integration with Postman.
+- Web-Based Interface: Built with HTML, CSS, and JavaScript for a user-friendly interface.
+- Replit Deployment: Easily run and manage the application on the Replit platform.
+- Secure Access: Employs Bearer Tokens for secure API access.
+- Getting Started
+- Follow these steps to set up and run the project locally or on Replit.
+
+## Prerequisites
+Ensure you have a Replit account. You can create one at replit.com.
+
+## Installation and Setup
+Clone the repository:
+- On Replit, fork the repository to your own workspace.
+  
+Set up Hugging Face API access:
+- Create an account on Hugging Face.
+- Obtain an API key (Bearer Token) from your Hugging Face account.
+  
+Configure environment variables:
+- On Replit, go to the "Secrets" tab.
+- Add your Hugging Face API key as a secret with the key name HUGGING_FACE_API_KEY.
+- Running the Application
+  
+To start the application on Replit:
+- Open the index.html file in the Replit editor.
+- Click the "Run" button at the top of the Replit interface.
+- The application will start, and you can view the summarizer in the Replit webview or at the generated Replit URL.
