@@ -2,7 +2,7 @@
 This repository contains a project for summarizing texts using AI via the Postman API. The project is built on the Replit platform using HTML, CSS, and JavaScript, and leverages the Hugging Face API for natural language processing tasks.
 
 <a href="https://replit.com/" target="blank">
-      <img src="https://replit.com/public/images/logo.svg" alt="Replit" width="50" height="50">
+      <img src="https://replit.com/public/images/logo.svg" alt="Replit" width="75" height="75">
 </a>
 
 ## Features
