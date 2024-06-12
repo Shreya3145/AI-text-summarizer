@@ -3,7 +3,7 @@ This repository contains a project for summarizing texts using AI via the Postma
 
 <a href="https://replit.com/" target="blank">
       <img src="https://replit.com/public/images/logo.svg" alt="Replit" width="75" height="75">
-</a>
+</a> <br>
 <a href="https://huggingface.co" target="blank">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50">
 </a>
