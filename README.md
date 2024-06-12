@@ -6,7 +6,7 @@ This repository contains a project for summarizing texts using AI via the Postma
 </a>
 <a href="https://huggingface.co" target="_blank">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50">
-</a>
+</a><br>
  <a href="https://www.postman.com" target="_blank">
       <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="50" height="50">
 </a>
